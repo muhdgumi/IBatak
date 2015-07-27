@@ -15,7 +15,7 @@ import org.springframework.web.servlet.view.JstlView;
  * for the spring web mvc.
  *
  * @author Muhammad Bello Muhammad (muhdgumi@gmail.com)
- * @since 25/05/2015
+ * @since 26/07/2015
  */
 @Configuration
 @EnableWebMvc

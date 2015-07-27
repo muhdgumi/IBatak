@@ -9,7 +9,7 @@ import java.io.Serializable;
  * of the interface.
  *
  * @author Muhammad Bello Muhammad (muhdgumi@gmail.com)
- * @since 26/05/2015
+ * @since 26/07/2015
  */
 public interface AbstractDaoService <K extends Serializable, T> {
 

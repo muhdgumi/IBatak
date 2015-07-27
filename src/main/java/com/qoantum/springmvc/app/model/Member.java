@@ -15,7 +15,7 @@ import java.util.Date;
 
 /**
  * @author Muhammad Bello Muhammad (muhdgumi@gmail.com)
- * @since 25/05/2015
+ * @since 26/07/2015
  */
 @Entity
 @Table(name = "member")
